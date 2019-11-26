@@ -2,6 +2,8 @@
 
 :snake: Boilerplate GUI installer using Python and Tkinter
 
+---
+
 ## Requirements
 ```
 coming soon...
